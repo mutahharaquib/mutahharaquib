@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **mohammadmutahharaquib@gmail.com**
 
-- ⚡ Fun fact **I am not a coffee addict. But yea I do love coffee & I’ve never tasted pineapple pizza.**
+- ⚡ Fun fact **I count from 0**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -24,8 +24,9 @@
 <a href="https://www.hackerearth.com/@mutahharaquib" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@mutahharaquib" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/mutahharaquib" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="mutahharaquib" height="30" width="40" /></a>
 <a href="https://www.topcoder.com/members/mutahharaquib" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="mutahharaquib" height="30" width="40" /></a>
-</p>
 <a href="https://instagram.com/mutahharaquib" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mutahharaquib" height="30" width="40" /></a>
+</p>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
