@@ -5,13 +5,13 @@
 
 - 🔭 I’m currently working on **Community Connect - A community chat application**
 
-- 🌱 I’m currently learning **JavaScript frameworks**
+- 🌱 I’m currently learning **JavaScript Frameworks**
 
 - 💬 Ask me about **MERN**
 
 - 📫 How to reach me **mohammadmutahharaquib@gmail.com**
 
-- ⚡ Fun fact **I don't talk much**
+- ⚡ Fun fact **I am not a coffee addict. But yea I do love coffee & I’ve never tasted pineapple pizza.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
