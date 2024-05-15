@@ -31,7 +31,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bash,bootstrap,bun,c,cpp,css,express,git,github,html,js,linux,mongodb,mysql,neovim,netlify,nextjs,nodejs,npm,postgres,postman,powershell,py,react,solidity,tailwind,ts,ubuntu,vim,,vue&perline=6" />
+    <img src="https://skillicons.dev/icons?i=bash,bootstrap,bun,c,cpp,css,express,git,github,html,js,linux,mongodb,mysql,neovim,netlify,nextjs,nodejs,npm,postgres,postman,powershell,py,react,solidity,tailwind,ts,ubuntu,vim,,vue&perline=5" />
   </a>
 </p>
 
