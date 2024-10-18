@@ -39,6 +39,7 @@
 <!-- <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/mutahharaquib"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="mutahharaquib" /></a></p><br><br> -->
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mutahharaquib&show_icons=true&locale=en" alt="mutahharaquib" /></p>
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mutahharaquib&show_icons=true&locale=en" alt="mutahharaquib" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mutahharaquib&" alt="mutahharaquib" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mutahharaquib&" alt="mutahharaquib" /></p> -->
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=mutahharaquib&theme=dark" alt="GitHub Streak" /></a>
