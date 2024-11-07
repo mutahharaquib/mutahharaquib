@@ -42,6 +42,6 @@
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mutahharaquib&show_icons=true&locale=en" alt="mutahharaquib" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mutahharaquib&" alt="mutahharaquib" /></p> -->
-<a href="https://streak-stats.demolab.com?user=mutahharaquib&theme=dark"><img src="https://streak-stats.demolab.com?user=mutahharaquib&theme=dark" alt="GitHub Streak" /></a>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mutahharaquib&layout=compact" alt="GitHub Streak" /></a>
+<!-- <a href="https://streak-stats.demolab.com?user=mutahharaquib&theme=dark"><img src="https://streak-stats.demolab.com?user=mutahharaquib&theme=dark" alt="GitHub Streak" /></a>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mutahharaquib&layout=compact" alt="GitHub Streak" /></a> -->
 <!-- <img src="https://github-readme-stats.vercel.app/api/wakatime?username=mutahharaquib" alt=""> -->
