@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **mohammadmutahharaquib@gmail.com**
 
-- ⚡ Fun fact **I count from 0**
+<!-- - ⚡ Fun fact **I count from 0** -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="normal">
