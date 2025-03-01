@@ -35,6 +35,7 @@
   </a>
 </p>
 
+<a href="https://streak-stats.demolab.com?user=mutahharaquib&theme=dark"><img src="https://streak-stats.demolab.com?user=mutahharaquib&theme=dark" alt="GitHub Streak" /></a>
 
 <!-- <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/mutahharaquib"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="mutahharaquib" /></a></p><br><br> -->
